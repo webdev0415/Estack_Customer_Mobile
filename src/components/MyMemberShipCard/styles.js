@@ -1,0 +1,101 @@
+import { StyleSheet } from 'react-native';
+
+const styles = StyleSheet.create({
+  mainContainer: {
+    flex: 1,
+    flexDirection: 'row',
+    minWidth: 341,
+    width: '100%',
+    height: 63,
+    marginBottom: 11,
+    alignItems: 'center',
+    backgroundColor: '#FFFFFF',
+    borderRadius: 6,
+    shadowOffset: { width: 1, height: 2 },
+    shadowOpacity: 0.8,
+    shadowRadius: 2,
+    elevation: 2,
+    shadowColor: 'rgba(0, 21, 41, 0.12)',
+    borderColor: 'rgba(0, 21, 41, 0.12)',
+    borderWidth: 1,
+  },
+  leftPartContainer: {
+    marginLeft: 20,
+    flexDirection: 'row',
+    alignItems: 'center',
+  },
+  memberStoreIcon: {
+    width: 37,
+    height: 37,
+    borderRadius: 30,
+  },
+  memberShipInfo: {
+    flexDirection: 'column',
+    marginLeft: 11,
+  },
+  storeName: {
+    marginBottom: 3,
+    fontSize: 12,
+    fontFamily: 'Roboto',
+    fontStyle: 'normal',
+    fontWeight: 'normal',
+    color: '#000000',
+  },
+  memberTier: {
+    fontSize: 10,
+    fontFamily: 'Roboto',
+    fontStyle: 'normal',
+    fontWeight: 'normal',
+    color: '#4A4A4A',
+  },
+  rightPartContainer: {
+    flex: 1,
+    flexDirection: 'column',
+    marginRight: 23,
+    justifyContent: 'center',
+    alignItems: 'flex-end',
+  },
+  bonusesContainer: {
+    flex: 1,
+    flexDirection: 'row',
+    justifyContent: 'flex-end',
+    alignItems: 'center',
+    marginTop: 10,
+  },
+  coupons: {
+    marginRight: 3,
+    fontSize: 12,
+    color: 'rgba(0, 0, 0, 0.65)',
+    fontFamily: 'Roboto',
+    fontWeight: 'normal',
+    fontStyle: 'normal',
+  },
+  couponIcon: {
+    width: 27,
+    height: 27,
+  },
+  points: {
+    marginRight: 7,
+    marginLeft: 10,
+    fontSize: 12,
+    color: 'rgba(0, 0, 0, 0.65)',
+    fontFamily: 'Roboto',
+    fontWeight: 'normal',
+    fontStyle: 'normal',
+  },
+  pointsIcon: {
+    width: 20,
+    height: 20,
+  },
+  additionalInfo: {
+    marginBottom: 5,
+    color: 'rgba(0, 0, 0, 0.65)',
+    fontSize: 9,
+    fontFamily: 'Roboto',
+    fontStyle: 'normal',
+    fontWeight: 'normal',
+    textAlign: 'right',
+  },
+});
+
+export default styles;

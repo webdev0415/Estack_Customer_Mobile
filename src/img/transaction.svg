@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="160px" height="150px" viewBox="0 0 160 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#44DEC5" offset="0%"></stop>
+            <stop stop-color="#4EBCFA" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#44DEC5" offset="0%"></stop>
+            <stop stop-color="#4EBCFA" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Artboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M152.5,95 C156.642136,95 160,98.3578644 160,102.5 C160,103.976464 159.573361,105.353281 158.83664,106.513895 C158.579877,107.080004 158.246984,107.622741 157.837527,108.128378 L117.561022,157.86572 C114.954291,161.084764 110.231568,161.581142 107.012524,158.974411 C103.79348,156.367681 103.297102,151.644958 105.903832,148.425914 L137.02,110 L0,110 L0,95 L152.5,95 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+        <path d="M152.5,-9.26541687 C156.642136,-9.26541687 160,-5.90755249 160,-1.76541687 C160,-0.288952842 159.573361,1.08786438 158.83664,2.24847854 C158.579877,2.81458668 158.246984,3.35732419 157.837527,3.86296126 L116.617041,54.7660217 L104.959852,45.3262159 L137.02,5.73458313 L0,5.73458313 L0,-9.26541687 L152.5,-9.26541687 Z" id="Combined-Shape" fill="url(#linearGradient-2)" transform="translate(80.000000, 22.750302) scale(-1, -1) translate(-80.000000, -22.750302) "></path>
+    </g>
+</svg>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>921337442003-jndctuss9gjecm9lim83j6h10cj7qchj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.921337442003-jndctuss9gjecm9lim83j6h10cj7qchj</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>921337442003-d5305rh1l1vcrud2o10ct6l8gou7iji9.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDfWGwAiyj9i4JkOtDIKCFPHXg2VM2_JFg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>921337442003</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.opengeekslab.estackk-customer</string>
+	<key>PROJECT_ID</key>
+	<string>testproject-7c39a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>testproject-7c39a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:921337442003:ios:8d6db6455f5fe2efc46e26</string>
+	<key>DATABASE_URL</key>
+	<string>https://testproject-7c39a.firebaseio.com</string>
+</dict>
+</plist>

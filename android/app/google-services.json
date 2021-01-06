@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "236162434251",
+    "firebase_url": "https://estackk1.firebaseio.com",
+    "project_id": "estackk1",
+    "storage_bucket": "estackk1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236162434251:android:a84bfb302e46c1a32c874e",
+        "android_client_info": {
+          "package_name": "com.boilerplate1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236162434251-o68e2jbsc46b6rgt473c1l68kehsfq1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM2gCmghdTCNlPkeKOY1-nj9WM0RJ9qNk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236162434251-o68e2jbsc46b6rgt473c1l68kehsfq1p.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "236162434251-ni3uesddm0jqahq7p8ckddncvl7m4voj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.opengeekslab.estackk-customer"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
