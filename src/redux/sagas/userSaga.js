@@ -328,7 +328,7 @@ function* createCoupon({ payload }) {
 
   try {
     const { businessId, cost } = payload;
-    alert("Wait please, we creating your coupon ");
+    //alert("Wait please, we creating your coupon ");
 
     yield call(
       api.post,
